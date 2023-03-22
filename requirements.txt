@@ -1,6 +1,7 @@
 wheel
 Pillow
 beautifulsoup4
+psutil
 pytesseract
 textblob
 pyspellchecker
@@ -10,3 +11,4 @@ spacy
 scikit-learn
 gensim
 sklearn-crfsuite
+spacy
