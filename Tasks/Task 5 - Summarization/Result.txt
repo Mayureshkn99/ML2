@@ -1,0 +1,23 @@
+SUMMARY:
+“Papa, tell me what stuff means and something means.” Cannot help evade a cute curious face, I said, “I am working on Neural Network.” Before I finish the statement, “Papa, What is a Meural Metark?” I gave up my stubbornness of avoiding her.
+After all, neural network inside our brain helps us to learn new things in our life.
+What I was actually doing here was teaching her neural network (brain) the features of a lion like exactly how Machine Learning Engineers would train the machine to learn new features.
+After telling her the features of a lion, asked her “Can you draw these for me?” She happily drew almost a similar figure to that of a dog she drew before.
+A dog will have features like face, body, legs, and tail.
+A lion will have features like face, body, legs, tail and a beard.
+The neurons grouped together with features like face, body, legs, tail and a beard forms a lion.
+Once all the features are there, the neurons will send a signal that the picture you are looking at is a lion and not a dog.
+Every neuron will tune itself to pick up certain features like legs, tail, face, beard, and so on.
+Neural network is a group of neuron friends identifying lions and dogs.
+
+
+BEST METHOD:
+gensim summarization
+
+EXPLANTION:
+1. Luhn - Overall good summary but there are still important elements missing.
+2. Latent Semantic Analysis - Insignificant Points covered.
+3. LexRank - Insignificant Points covered as well as abrupt start.
+4. TextRank - Important elements missing.
+5. Gensim - Best performance, covers almost all the important elements.
+6. Summa - Includes extra information even without which the summary can make sense.
